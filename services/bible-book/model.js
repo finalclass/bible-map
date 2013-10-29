@@ -35,5 +35,64 @@ exports.getBookNamesForLanguage = function (bookNumber, language) {
 }
 
 exports.getBookNumberByName = function (name) {
-  return parseInt(indexByName[name.toLowerCase()].no);
+  var book = indexByName[name.toLowerCase()];
+  if (!book) {
+    return null;
+  }
+  return parseInt(book.no);
 };
+
+exports.resolve = function (q) {
+  q = q.replace(/\s\s/g, '');
+
+  var byDash = q.split('-')
+  if (byDash.length > 1) {
+    var verseTo = parseInt(byDash[1]);
+  }
+
+  var byColon = byDash[0].split(':');
+  if (byColon.length > 1) {
+    var verseFrom = parseInt(byColon[1]);
+  }
+
+  var bySpace = byColon[0].split(' ');
+  if (parseInt(bySpace[0]) == bySpace[0]) {
+    var bookName = bySpace[0] + ' ' + bySpace[1];
+    var chapter = bySpace[2];
+  } else {
+    var bookName = bySpace[0];
+    var chapter = bySpace[1];
+  }
+
+  var bookNumber = exports.getBookNumberByName(bookName);
+
+  if (!bookNumber) {
+    return res.json(404, {error: 'Book not found'});
+  }
+
+  var numberOfChaptersInBook = exports.getChaptersNumbers(bookNumber).length;
+  if (chapter > numberOfChaptersInBook) {
+    chapter = numberOfChaptersInBook;
+  }
+
+
+  var numberOfVersesInChapter = exports.getNumberOfVerses(bookNumber, chapter);
+  if (verseFrom > numberOfVersesInChapter) {
+    verseFrom = numberOfVersesInChapter;
+  }
+
+  if (verseTo > numberOfVersesInChapter) {
+    verseTo = numberOfVersesInChapter;
+  }
+
+  if (verseFrom > verseTo) {
+    return res.json(400, {error: 'Verse from greater then verse to'});
+  }
+
+  return {
+    book: bookNumber,
+    chapter: chapter,
+    verseFrom: verseFrom,
+    verseTo: verseTo
+  };
+}

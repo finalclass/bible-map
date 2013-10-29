@@ -34,7 +34,7 @@ app.get('/book-by-name/:bookName', function findBookByName(req, res) {
 });
 
 app.get('/resolve/:query', function findBookNumberChapterAndVerse (req, res) {
-  throw new Error('Not implemented yet');
+  res.json(model.resolve(req.params.query));
 });
 
 app.get('/:bookNumber/chapter', function sendChapters (req, res) {
