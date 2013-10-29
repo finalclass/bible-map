@@ -1,0 +1,6048 @@
+{
+  "1": {
+    "no": "1",
+    "translations": {
+      "en": {
+        "name": "Genesis",
+        "alternatives": [
+          "Gen"
+        ]
+      },
+      "pl": {
+        "name": "1 Mojżeszowa",
+        "alternatives": [
+          "1Mojż", "1 Mojż", "1 Księga Mojżeszowa", "Powstania", "Rodzaju", "Rdz", "I Mojżeszowa", "I Mojż"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 31
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 25
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 24
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 26
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 32
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 22
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 24
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 22
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 29
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 32
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 32
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 20
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 18
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 24
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 21
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 16
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 27
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 33
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 38
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 18
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 34
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 24
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 20
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 67
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 34
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 35
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 46
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 22
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 35
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 43
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 55
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 32
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 20
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 31
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 29
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 43
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 36
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 30
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 23
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 23
+      },
+      "41": {
+        "no": "41",
+        "numberOfVerses": 57
+      },
+      "42": {
+        "no": "42",
+        "numberOfVerses": 38
+      },
+      "43": {
+        "no": "43",
+        "numberOfVerses": 34
+      },
+      "44": {
+        "no": "44",
+        "numberOfVerses": 34
+      },
+      "45": {
+        "no": "45",
+        "numberOfVerses": 28
+      },
+      "46": {
+        "no": "46",
+        "numberOfVerses": 34
+      },
+      "47": {
+        "no": "47",
+        "numberOfVerses": 31
+      },
+      "48": {
+        "no": "48",
+        "numberOfVerses": 22
+      },
+      "49": {
+        "no": "49",
+        "numberOfVerses": 33
+      },
+      "50": {
+        "no": "50",
+        "numberOfVerses": 26
+      }
+    }
+  },
+  "2": {
+    "no": "2",
+    "translations": {
+      "en": {
+        "name": "Exodus",
+        "alternatives": [
+          "Exod"
+        ]
+      },
+      "pl": {
+        "name": "2 Mojżeszowa",
+        "alternatives": [
+          "Wyjścia", "Wy", "Wyj", "2 Mojż", "2Mojż", "II Mojż", "2 Księga Mojżeszowa"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 22
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 25
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 22
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 31
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 23
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 30
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 25
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 32
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 35
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 29
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 10
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 51
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 22
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 31
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 27
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 36
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 16
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 27
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 25
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 26
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 36
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 31
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 33
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 18
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 40
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 37
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 21
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 43
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 46
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 38
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 18
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 35
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 23
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 35
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 35
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 38
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 29
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 31
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 43
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 38
+      }
+    }
+  },
+  "3": {
+    "no": "3",
+    "translations": {
+      "en": {
+        "name": "Leviticus",
+        "alternatives": [
+          "Lev"
+        ]
+      },
+      "pl": {
+        "name": "3 Mojżeszowa",
+        "alternatives": [
+          "Kapłańska", "Kap", "Ka", "3 Księga Mojżeszowa", "3Mojż", "3 Mojż", "III Mojżeszowa", "III Mojż"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 17
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 16
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 17
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 35
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 19
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 30
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 38
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 36
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 24
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 20
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 47
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 8
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 59
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 57
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 33
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 34
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 16
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 30
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 37
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 27
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 24
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 33
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 44
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 23
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 55
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 46
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 34
+      }
+    }
+  },
+  "4": {
+    "no": "4",
+    "translations": {
+      "en": {
+        "name": "Numbers",
+        "alternatives": [
+          "Num"
+        ]
+      },
+      "pl": {
+        "name": "4 Mojżeszowa",
+        "alternatives": [
+          "Liczb", "4 Księga Mojżeszowa", "4 Mojż", "4Mojż", "IV Mojżeszowa", "IV Mojż"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 54
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 34
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 51
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 49
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 31
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 27
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 89
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 26
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 23
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 36
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 35
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 16
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 33
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 45
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 41
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 50
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 13
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 32
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 22
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 29
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 35
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 41
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 30
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 25
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 18
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 65
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 23
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 31
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 40
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 16
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 54
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 42
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 56
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 29
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 34
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 13
+      }
+    }
+  },
+  "5": {
+    "no": "5",
+    "translations": {
+      "en": {
+        "name": "Deuteronomy",
+        "alternatives": [
+          "Deut"
+        ]
+      },
+      "pl": {
+        "name": "5 Mojżeszowa",
+        "alternatives": [
+          "Powtórzonego prawa", "5 Księga Mojżeszowa", "5 Mojż", "5Mojż", "V Mojżeszowa", "V Mojż"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 46
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 37
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 29
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 49
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 33
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 25
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 26
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 20
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 29
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 22
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 32
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 32
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 18
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 29
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 23
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 22
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 20
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 22
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 21
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 20
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 23
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 30
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 25
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 22
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 19
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 19
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 26
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 68
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 29
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 20
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 30
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 52
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 29
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 12
+      }
+    }
+  },
+  "6": {
+    "no": "6",
+    "translations": {
+      "en": {
+        "name": "Joshua",
+        "alternatives": [
+          "Josh"
+        ]
+      },
+      "pl": {
+        "name": "Jozuego",
+        "alternatives": [
+          "Joz", "Księga Jozuego"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 18
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 24
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 17
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 24
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 15
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 27
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 26
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 35
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 27
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 43
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 23
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 24
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 33
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 15
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 63
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 10
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 18
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 28
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 51
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 9
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 45
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 34
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 16
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 33
+      }
+    }
+  },
+  "7": {
+    "no": "7",
+    "translations": {
+      "en": {
+        "name": "Judges",
+        "alternatives": [
+          "Judg"
+        ]
+      },
+      "pl": {
+        "name": "Sędziów",
+        "alternatives": [
+          "Sę", "Se", "Księga Sędziów"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 36
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 31
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 24
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 31
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 40
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 25
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 35
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 57
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 18
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 40
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 15
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 25
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 20
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 20
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 31
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 13
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 31
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 30
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 48
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 25
+      }
+    }
+  },
+  "8": {
+    "no": "8",
+    "translations": {
+      "en": {
+        "name": "Ruth",
+        "alternatives": [
+          "Ru"
+        ]
+      },
+      "pl": {
+        "name": "Rut",
+        "alternatives": [
+          "Ru", "Księga Rut", "Ruty"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 22
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 18
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 22
+      }
+    }
+  },
+  "9": {
+    "no": "9",
+    "translations": {
+      "en": {
+        "name": "1 Samuel",
+        "alternatives": [
+          "1Sam", "1 Sam"
+        ]
+      },
+      "pl": {
+        "name": "1 Samuela",
+        "alternatives": [
+          "1 Sam", "1Sam", "1 Księga Samuela", "1 Samuelowa", "I Samuelowa", "I Sam"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 28
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 36
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 21
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 22
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 12
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 21
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 17
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 22
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 27
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 27
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 15
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 25
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 23
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 52
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 35
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 23
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 58
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 30
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 24
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 42
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 15
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 23
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 29
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 22
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 44
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 25
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 12
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 25
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 11
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 31
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 13
+      }
+    }
+  },
+  "10": {
+    "no": "10",
+    "translations": {
+      "en": {
+        "name": "2 Samuel",
+        "alternatives": [
+          "2Sam", "2 Sam"
+        ]
+      },
+      "pl": {
+        "name": "2 Samuela",
+        "alternatives": [
+          "2 Księga Samuela", "2 Samuelowa", "2 Sam", "2Sam", "II Samuelowa", "II Sam"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 27
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 32
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 39
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 12
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 25
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 23
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 29
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 18
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 13
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 19
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 27
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 31
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 39
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 33
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 37
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 23
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 29
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 33
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 43
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 26
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 22
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 51
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 39
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 25
+      }
+    }
+  },
+  "11": {
+    "no": "11",
+    "translations": {
+      "en": {
+        "name": "1 Kings",
+        "alternatives": [
+          "1Kgs", "1 Kgs", "1 Ki", "1Ki"
+        ]
+      },
+      "pl": {
+        "name": "1 Królewska",
+        "alternatives": [
+          "1 Król", "1Król", "1Kr", "1 Kr", "1 Księga Królewska", "I Królewska", "I Kr", "I Król"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 53
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 46
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 28
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 34
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 18
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 38
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 51
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 66
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 28
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 29
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 43
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 33
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 34
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 31
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 34
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 34
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 24
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 46
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 21
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 43
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 29
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 53
+      }
+    }
+  },
+  "12": {
+    "no": "12",
+    "translations": {
+      "en": {
+        "name": "2 Kings",
+        "alternatives": [
+          "2Kgs", "2 Kgs", "2 Ki", "2Ki"
+        ]
+      },
+      "pl": {
+        "name": "2 Królewska",
+        "alternatives": [
+          "2 Król", "2Król", "2Kr", "2 Kr", "2 Księga Królewska", "II Królewska", "II Kr", "II Król"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 18
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 25
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 27
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 44
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 27
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 33
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 20
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 29
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 37
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 36
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 21
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 21
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 25
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 29
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 38
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 20
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 41
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 37
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 37
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 21
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 26
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 20
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 37
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 20
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 30
+      }
+    }
+  },
+  "13": {
+    "no": "13",
+    "translations": {
+      "en": {
+        "name": "1 Chronicles",
+        "alternatives": [
+          "1Chr", "1 Chr"
+        ]
+      },
+      "pl": {
+        "name": "1 Kronik",
+        "alternatives": [
+          "1 Księga Kronik", "1 Kron", "1 Kr", "1Kron", "1Kron", "I Kronik", "I Kr", "I Kron"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 54
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 55
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 24
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 43
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 26
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 81
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 40
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 40
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 44
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 14
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 47
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 40
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 14
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 17
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 29
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 43
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 27
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 17
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 19
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 8
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 30
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 19
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 32
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 31
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 31
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 32
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 34
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 21
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 30
+      }
+    }
+  },
+  "14": {
+    "no": "14",
+    "translations": {
+      "en": {
+        "name": "2 Chronicles",
+        "alternatives": [
+          "2Chr", "2 Chr"
+        ]
+      },
+      "pl": {
+        "name": "1 Kronik",
+        "alternatives": [
+          "2 Księga Kronik", "2 Kron", "2 Kr", "2Kron", "2Kron", "II Kronik", "II Kr", "II Kron"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 17
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 18
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 17
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 22
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 14
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 42
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 22
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 18
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 31
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 19
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 23
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 16
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 22
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 15
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 19
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 14
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 19
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 34
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 11
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 37
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 20
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 12
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 21
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 27
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 28
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 23
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 9
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 27
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 36
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 27
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 21
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 33
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 25
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 33
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 27
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 23
+      }
+    }
+  },
+  "15": {
+    "no": "15",
+    "translations": {
+      "en": {
+        "name": "Ezra",
+        "alternatives": [
+          "Ezra"
+        ]
+      },
+      "pl": {
+        "name": "Ezdrasza",
+        "alternatives": [
+          "Ezdraszowa", "Ezdr", "Księga Ezdrasza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 11
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 70
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 13
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 24
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 17
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 22
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 28
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 36
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 15
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 44
+      }
+    }
+  },
+  "16": {
+    "no": "16",
+    "translations": {
+      "en": {
+        "name": "Nehemiah",
+        "alternatives": [
+          "Neh"
+        ]
+      },
+      "pl": {
+        "name": "Nehemiasza",
+        "alternatives": [
+          "Ne", "Neh", "Nehemijaszowa", "Księga Nehemiasza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 11
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 20
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 32
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 23
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 19
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 19
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 73
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 18
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 38
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 39
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 36
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 47
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 31
+      }
+    }
+  },
+  "17": {
+    "no": "17",
+    "translations": {
+      "en": {
+        "name": "Esther",
+        "alternatives": [
+          "Esth", "Es"
+        ]
+      },
+      "pl": {
+        "name": "Estery",
+        "alternatives": [
+          "Es", "Est", "Księga Estery"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 22
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 15
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 17
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 14
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 14
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 10
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 17
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 32
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 3
+      }
+    }
+  },
+  "18": {
+    "no": "18",
+    "translations": {
+      "en": {
+        "name": "Job",
+        "alternatives": [
+        ]
+      },
+      "pl": {
+        "name": "Joba",
+        "alternatives": [
+          "Job", "Ijobowa", "Ijob", "Hiob", "Księga Joba"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 22
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 13
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 26
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 21
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 27
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 30
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 21
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 22
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 35
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 22
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 20
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 25
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 28
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 22
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 35
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 22
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 16
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 21
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 29
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 29
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 34
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 30
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 17
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 25
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 6
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 14
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 23
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 28
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 25
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 31
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 40
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 22
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 33
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 37
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 16
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 33
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 24
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 41
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 30
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 24
+      },
+      "41": {
+        "no": "41",
+        "numberOfVerses": 34
+      },
+      "42": {
+        "no": "42",
+        "numberOfVerses": 17
+      }
+    }
+  },
+  "19": {
+    "no": "19",
+    "translations": {
+      "en": {
+        "name": "Psalm",
+        "alternatives": [
+          "Ps"
+        ]
+      },
+      "pl": {
+        "name": "Psalmów",
+        "alternatives": [
+          "Ps", "Księga Psalmów"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 6
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 12
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 8
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 8
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 12
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 10
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 17
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 9
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 20
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 18
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 7
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 8
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 6
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 7
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 5
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 11
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 15
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 50
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 14
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 9
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 13
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 31
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 6
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 10
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 22
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 12
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 14
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 9
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 11
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 12
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 24
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 11
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 22
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 22
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 28
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 12
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 40
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 22
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 13
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 17
+      },
+      "41": {
+        "no": "41",
+        "numberOfVerses": 13
+      },
+      "42": {
+        "no": "42",
+        "numberOfVerses": 11
+      },
+      "43": {
+        "no": "43",
+        "numberOfVerses": 5
+      },
+      "44": {
+        "no": "44",
+        "numberOfVerses": 26
+      },
+      "45": {
+        "no": "45",
+        "numberOfVerses": 17
+      },
+      "46": {
+        "no": "46",
+        "numberOfVerses": 11
+      },
+      "47": {
+        "no": "47",
+        "numberOfVerses": 9
+      },
+      "48": {
+        "no": "48",
+        "numberOfVerses": 14
+      },
+      "49": {
+        "no": "49",
+        "numberOfVerses": 20
+      },
+      "50": {
+        "no": "50",
+        "numberOfVerses": 23
+      },
+      "51": {
+        "no": "51",
+        "numberOfVerses": 19
+      },
+      "52": {
+        "no": "52",
+        "numberOfVerses": 9
+      },
+      "53": {
+        "no": "53",
+        "numberOfVerses": 6
+      },
+      "54": {
+        "no": "54",
+        "numberOfVerses": 7
+      },
+      "55": {
+        "no": "55",
+        "numberOfVerses": 23
+      },
+      "56": {
+        "no": "56",
+        "numberOfVerses": 13
+      },
+      "57": {
+        "no": "57",
+        "numberOfVerses": 11
+      },
+      "58": {
+        "no": "58",
+        "numberOfVerses": 11
+      },
+      "59": {
+        "no": "59",
+        "numberOfVerses": 17
+      },
+      "60": {
+        "no": "60",
+        "numberOfVerses": 12
+      },
+      "61": {
+        "no": "61",
+        "numberOfVerses": 8
+      },
+      "62": {
+        "no": "62",
+        "numberOfVerses": 12
+      },
+      "63": {
+        "no": "63",
+        "numberOfVerses": 11
+      },
+      "64": {
+        "no": "64",
+        "numberOfVerses": 10
+      },
+      "65": {
+        "no": "65",
+        "numberOfVerses": 13
+      },
+      "66": {
+        "no": "66",
+        "numberOfVerses": 20
+      },
+      "67": {
+        "no": "67",
+        "numberOfVerses": 7
+      },
+      "68": {
+        "no": "68",
+        "numberOfVerses": 35
+      },
+      "69": {
+        "no": "69",
+        "numberOfVerses": 36
+      },
+      "70": {
+        "no": "70",
+        "numberOfVerses": 5
+      },
+      "71": {
+        "no": "71",
+        "numberOfVerses": 24
+      },
+      "72": {
+        "no": "72",
+        "numberOfVerses": 20
+      },
+      "73": {
+        "no": "73",
+        "numberOfVerses": 28
+      },
+      "74": {
+        "no": "74",
+        "numberOfVerses": 23
+      },
+      "75": {
+        "no": "75",
+        "numberOfVerses": 10
+      },
+      "76": {
+        "no": "76",
+        "numberOfVerses": 12
+      },
+      "77": {
+        "no": "77",
+        "numberOfVerses": 20
+      },
+      "78": {
+        "no": "78",
+        "numberOfVerses": 72
+      },
+      "79": {
+        "no": "79",
+        "numberOfVerses": 13
+      },
+      "80": {
+        "no": "80",
+        "numberOfVerses": 19
+      },
+      "81": {
+        "no": "81",
+        "numberOfVerses": 16
+      },
+      "82": {
+        "no": "82",
+        "numberOfVerses": 8
+      },
+      "83": {
+        "no": "83",
+        "numberOfVerses": 18
+      },
+      "84": {
+        "no": "84",
+        "numberOfVerses": 12
+      },
+      "85": {
+        "no": "85",
+        "numberOfVerses": 13
+      },
+      "86": {
+        "no": "86",
+        "numberOfVerses": 17
+      },
+      "87": {
+        "no": "87",
+        "numberOfVerses": 7
+      },
+      "88": {
+        "no": "88",
+        "numberOfVerses": 18
+      },
+      "89": {
+        "no": "89",
+        "numberOfVerses": 52
+      },
+      "90": {
+        "no": "90",
+        "numberOfVerses": 17
+      },
+      "91": {
+        "no": "91",
+        "numberOfVerses": 16
+      },
+      "92": {
+        "no": "92",
+        "numberOfVerses": 15
+      },
+      "93": {
+        "no": "93",
+        "numberOfVerses": 5
+      },
+      "94": {
+        "no": "94",
+        "numberOfVerses": 23
+      },
+      "95": {
+        "no": "95",
+        "numberOfVerses": 11
+      },
+      "96": {
+        "no": "96",
+        "numberOfVerses": 13
+      },
+      "97": {
+        "no": "97",
+        "numberOfVerses": 12
+      },
+      "98": {
+        "no": "98",
+        "numberOfVerses": 9
+      },
+      "99": {
+        "no": "99",
+        "numberOfVerses": 9
+      },
+      "100": {
+        "no": "100",
+        "numberOfVerses": 5
+      },
+      "101": {
+        "no": "101",
+        "numberOfVerses": 8
+      },
+      "102": {
+        "no": "102",
+        "numberOfVerses": 28
+      },
+      "103": {
+        "no": "103",
+        "numberOfVerses": 22
+      },
+      "104": {
+        "no": "104",
+        "numberOfVerses": 35
+      },
+      "105": {
+        "no": "105",
+        "numberOfVerses": 45
+      },
+      "106": {
+        "no": "106",
+        "numberOfVerses": 48
+      },
+      "107": {
+        "no": "107",
+        "numberOfVerses": 43
+      },
+      "108": {
+        "no": "108",
+        "numberOfVerses": 13
+      },
+      "109": {
+        "no": "109",
+        "numberOfVerses": 31
+      },
+      "110": {
+        "no": "110",
+        "numberOfVerses": 7
+      },
+      "111": {
+        "no": "111",
+        "numberOfVerses": 10
+      },
+      "112": {
+        "no": "112",
+        "numberOfVerses": 10
+      },
+      "113": {
+        "no": "113",
+        "numberOfVerses": 9
+      },
+      "114": {
+        "no": "114",
+        "numberOfVerses": 8
+      },
+      "115": {
+        "no": "115",
+        "numberOfVerses": 18
+      },
+      "116": {
+        "no": "116",
+        "numberOfVerses": 19
+      },
+      "117": {
+        "no": "117",
+        "numberOfVerses": 2
+      },
+      "118": {
+        "no": "118",
+        "numberOfVerses": 29
+      },
+      "119": {
+        "no": "119",
+        "numberOfVerses": 176
+      },
+      "120": {
+        "no": "120",
+        "numberOfVerses": 7
+      },
+      "121": {
+        "no": "121",
+        "numberOfVerses": 8
+      },
+      "122": {
+        "no": "122",
+        "numberOfVerses": 9
+      },
+      "123": {
+        "no": "123",
+        "numberOfVerses": 4
+      },
+      "124": {
+        "no": "124",
+        "numberOfVerses": 8
+      },
+      "125": {
+        "no": "125",
+        "numberOfVerses": 5
+      },
+      "126": {
+        "no": "126",
+        "numberOfVerses": 6
+      },
+      "127": {
+        "no": "127",
+        "numberOfVerses": 5
+      },
+      "128": {
+        "no": "128",
+        "numberOfVerses": 6
+      },
+      "129": {
+        "no": "129",
+        "numberOfVerses": 8
+      },
+      "130": {
+        "no": "130",
+        "numberOfVerses": 8
+      },
+      "131": {
+        "no": "131",
+        "numberOfVerses": 3
+      },
+      "132": {
+        "no": "132",
+        "numberOfVerses": 18
+      },
+      "133": {
+        "no": "133",
+        "numberOfVerses": 3
+      },
+      "134": {
+        "no": "134",
+        "numberOfVerses": 3
+      },
+      "135": {
+        "no": "135",
+        "numberOfVerses": 21
+      },
+      "136": {
+        "no": "136",
+        "numberOfVerses": 26
+      },
+      "137": {
+        "no": "137",
+        "numberOfVerses": 9
+      },
+      "138": {
+        "no": "138",
+        "numberOfVerses": 8
+      },
+      "139": {
+        "no": "139",
+        "numberOfVerses": 24
+      },
+      "140": {
+        "no": "140",
+        "numberOfVerses": 13
+      },
+      "141": {
+        "no": "141",
+        "numberOfVerses": 10
+      },
+      "142": {
+        "no": "142",
+        "numberOfVerses": 7
+      },
+      "143": {
+        "no": "143",
+        "numberOfVerses": 12
+      },
+      "144": {
+        "no": "144",
+        "numberOfVerses": 15
+      },
+      "145": {
+        "no": "145",
+        "numberOfVerses": 21
+      },
+      "146": {
+        "no": "146",
+        "numberOfVerses": 10
+      },
+      "147": {
+        "no": "147",
+        "numberOfVerses": 20
+      },
+      "148": {
+        "no": "148",
+        "numberOfVerses": 14
+      },
+      "149": {
+        "no": "149",
+        "numberOfVerses": 9
+      },
+      "150": {
+        "no": "150",
+        "numberOfVerses": 6
+      }
+    }
+  },
+  "20": {
+    "no": "20",
+    "translations": {
+      "en": {
+        "name": "Proverbs",
+        "alternatives": [
+          "Prov", "Pr"
+        ]
+      },
+      "pl": {
+        "name": "Przypowieści",
+        "alternatives": [
+          "Przypowieści Salomona", "Przyp", "Prz", "Pr", "Przypowieści Salomonowych"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 33
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 22
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 35
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 27
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 23
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 35
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 27
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 36
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 18
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 32
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 31
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 28
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 25
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 35
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 33
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 33
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 28
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 24
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 29
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 30
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 31
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 29
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 35
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 34
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 28
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 28
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 27
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 28
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 27
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 33
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 31
+      }
+    }
+  },
+  "21": {
+    "no": "21",
+    "translations": {
+      "en": {
+        "name": "Ecclesiastes",
+        "alternatives": [
+          "Eccl", "Ec"
+        ]
+      },
+      "pl": {
+        "name": "Kaznodzieji Salomona",
+        "alternatives": [
+          "Księga Kaznodzieji Salomona", "Kazn"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 18
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 26
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 22
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 16
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 20
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 12
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 29
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 17
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 18
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 20
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 10
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 14
+      }
+    }
+  },
+  "22": {
+    "no": "22",
+    "translations": {
+      "en": {
+        "name": "Song of Solomon",
+        "alternatives": [
+          "Song"
+        ]
+      },
+      "pl": {
+        "name": "Pieśń nad Pieśniami",
+        "alternatives": [
+          "Pieśń Salomona", "Pieśń"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 17
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 17
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 11
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 16
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 16
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 13
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 13
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 14
+      }
+    }
+  },
+  "23": {
+    "no": "23",
+    "translations": {
+      "en": {
+        "name": "Isaiah",
+        "alternatives": [
+          "Isa", "Is"
+        ]
+      },
+      "pl": {
+        "name": "Izajasza",
+        "alternatives": [
+          "Iz", "Izajasz", "Księga Izajasza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 31
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 22
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 26
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 6
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 30
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 13
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 25
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 22
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 21
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 34
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 16
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 6
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 22
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 32
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 9
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 14
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 14
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 7
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 25
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 6
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 17
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 25
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 18
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 23
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 12
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 21
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 13
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 29
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 24
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 33
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 9
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 20
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 24
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 17
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 10
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 22
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 38
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 22
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 8
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 31
+      },
+      "41": {
+        "no": "41",
+        "numberOfVerses": 29
+      },
+      "42": {
+        "no": "42",
+        "numberOfVerses": 25
+      },
+      "43": {
+        "no": "43",
+        "numberOfVerses": 28
+      },
+      "44": {
+        "no": "44",
+        "numberOfVerses": 28
+      },
+      "45": {
+        "no": "45",
+        "numberOfVerses": 25
+      },
+      "46": {
+        "no": "46",
+        "numberOfVerses": 13
+      },
+      "47": {
+        "no": "47",
+        "numberOfVerses": 15
+      },
+      "48": {
+        "no": "48",
+        "numberOfVerses": 22
+      },
+      "49": {
+        "no": "49",
+        "numberOfVerses": 26
+      },
+      "50": {
+        "no": "50",
+        "numberOfVerses": 11
+      },
+      "51": {
+        "no": "51",
+        "numberOfVerses": 23
+      },
+      "52": {
+        "no": "52",
+        "numberOfVerses": 15
+      },
+      "53": {
+        "no": "53",
+        "numberOfVerses": 12
+      },
+      "54": {
+        "no": "54",
+        "numberOfVerses": 17
+      },
+      "55": {
+        "no": "55",
+        "numberOfVerses": 13
+      },
+      "56": {
+        "no": "56",
+        "numberOfVerses": 12
+      },
+      "57": {
+        "no": "57",
+        "numberOfVerses": 21
+      },
+      "58": {
+        "no": "58",
+        "numberOfVerses": 14
+      },
+      "59": {
+        "no": "59",
+        "numberOfVerses": 21
+      },
+      "60": {
+        "no": "60",
+        "numberOfVerses": 22
+      },
+      "61": {
+        "no": "61",
+        "numberOfVerses": 11
+      },
+      "62": {
+        "no": "62",
+        "numberOfVerses": 12
+      },
+      "63": {
+        "no": "63",
+        "numberOfVerses": 19
+      },
+      "64": {
+        "no": "64",
+        "numberOfVerses": 12
+      },
+      "65": {
+        "no": "65",
+        "numberOfVerses": 25
+      },
+      "66": {
+        "no": "66",
+        "numberOfVerses": 24
+      }
+    }
+  },
+  "24": {
+    "no": "24",
+    "translations": {
+      "en": {
+        "name": "Jeremiah",
+        "alternatives": [
+          "Jer", "Je"
+        ]
+      },
+      "pl": {
+        "name": "Jeremiasza",
+        "alternatives": [
+          "Księga Jeremiasza", "Je", "Jer", "Jeremijasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 19
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 37
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 25
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 31
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 31
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 30
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 34
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 22
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 26
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 25
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 23
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 17
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 27
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 22
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 21
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 21
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 27
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 23
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 15
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 18
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 14
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 30
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 40
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 10
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 38
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 24
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 22
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 17
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 32
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 24
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 40
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 44
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 26
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 22
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 19
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 32
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 21
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 28
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 18
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 16
+      },
+      "41": {
+        "no": "41",
+        "numberOfVerses": 18
+      },
+      "42": {
+        "no": "42",
+        "numberOfVerses": 22
+      },
+      "43": {
+        "no": "43",
+        "numberOfVerses": 13
+      },
+      "44": {
+        "no": "44",
+        "numberOfVerses": 30
+      },
+      "45": {
+        "no": "45",
+        "numberOfVerses": 5
+      },
+      "46": {
+        "no": "46",
+        "numberOfVerses": 28
+      },
+      "47": {
+        "no": "47",
+        "numberOfVerses": 7
+      },
+      "48": {
+        "no": "48",
+        "numberOfVerses": 47
+      },
+      "49": {
+        "no": "49",
+        "numberOfVerses": 39
+      },
+      "50": {
+        "no": "50",
+        "numberOfVerses": 46
+      },
+      "51": {
+        "no": "51",
+        "numberOfVerses": 64
+      },
+      "52": {
+        "no": "52",
+        "numberOfVerses": 34
+      }
+    }
+  },
+  "25": {
+    "no": "25",
+    "translations": {
+      "en": {
+        "name": "Lamentations",
+        "alternatives": [
+          "Lam"
+        ]
+      },
+      "pl": {
+        "name": "Treny",
+        "alternatives": [
+          "Tr", "Treny Jeremijaszowe", "Treny Jeremiaszowe"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 22
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 22
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 66
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 22
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 22
+      }
+    }
+  },
+  "26": {
+    "no": "26",
+    "translations": {
+      "en": {
+        "name": "Ezekiel",
+        "alternatives": [
+          "Ezek", "Ez"
+        ]
+      },
+      "pl": {
+        "name": "Ezechiela",
+        "alternatives": [
+          "Księŋa Ezechiela", "Ez", "Ezech", "Ezechyjel"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 28
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 10
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 27
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 17
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 17
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 14
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 27
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 18
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 11
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 22
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 25
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 28
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 23
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 23
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 8
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 63
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 24
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 32
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 14
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 49
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 32
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 31
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 49
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 27
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 17
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 21
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 36
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 26
+      },
+      "29": {
+        "no": "29",
+        "numberOfVerses": 21
+      },
+      "30": {
+        "no": "30",
+        "numberOfVerses": 26
+      },
+      "31": {
+        "no": "31",
+        "numberOfVerses": 18
+      },
+      "32": {
+        "no": "32",
+        "numberOfVerses": 32
+      },
+      "33": {
+        "no": "33",
+        "numberOfVerses": 33
+      },
+      "34": {
+        "no": "34",
+        "numberOfVerses": 31
+      },
+      "35": {
+        "no": "35",
+        "numberOfVerses": 15
+      },
+      "36": {
+        "no": "36",
+        "numberOfVerses": 38
+      },
+      "37": {
+        "no": "37",
+        "numberOfVerses": 28
+      },
+      "38": {
+        "no": "38",
+        "numberOfVerses": 23
+      },
+      "39": {
+        "no": "39",
+        "numberOfVerses": 29
+      },
+      "40": {
+        "no": "40",
+        "numberOfVerses": 49
+      },
+      "41": {
+        "no": "41",
+        "numberOfVerses": 26
+      },
+      "42": {
+        "no": "42",
+        "numberOfVerses": 20
+      },
+      "43": {
+        "no": "43",
+        "numberOfVerses": 27
+      },
+      "44": {
+        "no": "44",
+        "numberOfVerses": 31
+      },
+      "45": {
+        "no": "45",
+        "numberOfVerses": 25
+      },
+      "46": {
+        "no": "46",
+        "numberOfVerses": 24
+      },
+      "47": {
+        "no": "47",
+        "numberOfVerses": 23
+      },
+      "48": {
+        "no": "48",
+        "numberOfVerses": 35
+      }
+    }
+  },
+  "27": {
+    "no": "27",
+    "translations": {
+      "en": {
+        "name": "Daniel",
+        "alternatives": [
+          "Dan", "Da"
+        ]
+      },
+      "pl": {
+        "name": "Daniela",
+        "alternatives": [
+          "Da", "Dan", "Danijel", "Księga Daniela"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 21
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 49
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 30
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 37
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 31
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 28
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 28
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 27
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 27
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 21
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 45
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 13
+      }
+    }
+  },
+  "28": {
+    "no": "28",
+    "translations": {
+      "en": {
+        "name": "Hosea",
+        "alternatives": [
+          "Hos", "Ho"
+        ]
+      },
+      "pl": {
+        "name": "Ozeasza",
+        "alternatives": [
+          "Oz", "Księga Ozeasza", "Ozeasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 11
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 5
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 19
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 15
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 11
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 16
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 14
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 17
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 15
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 12
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 14
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 16
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 9
+      }
+    }
+  },
+  "29": {
+    "no": "29",
+    "translations": {
+      "en": {
+        "name": "Joel",
+        "alternatives": [
+          "Jo"
+        ]
+      },
+      "pl": {
+        "name": "Joela",
+        "alternatives": [
+          "Jo", "Księga Joela", "Joel"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 20
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 32
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 21
+      }
+    }
+  },
+  "30": {
+    "no": "30",
+    "translations": {
+      "en": {
+        "name": "Amos",
+        "alternatives": [
+          "Amos", "Am"
+        ]
+      },
+      "pl": {
+        "name": "Amosa", 
+        "alternatives": [
+          "Am", "Księga Amosa", "Amos"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 15
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 16
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 15
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 13
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 27
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 14
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 17
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 14
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 15
+      }
+    }
+  },
+  "31": {
+    "no": "31",
+    "translations": {
+      "en": {
+        "name": "Obadiah",
+        "alternatives": [
+          "Obad", "Ob"
+        ]
+      },
+      "pl": {
+        "name": "Abdiasza", 
+        "alternatives": [
+          "Abd", "Ab", "Księga Abdiasza", "Abdyjasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 21
+      }
+    }
+  },
+  "32": {
+    "no": "32",
+    "translations": {
+      "en": {
+        "name": "Jonah",
+        "alternatives": [
+        ]
+      },
+      "pl": {
+        "name": "Jonasza",
+        "alternatives": [
+          "Jonasz", "Jon"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 17
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 10
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 10
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 11
+      }
+    }
+  },
+  "33": {
+    "no": "33",
+    "translations": {
+      "en": {
+        "name": "Micah",
+        "alternatives": [
+          "Mic", "Mi"
+        ]
+      },
+      "pl": {
+        "name": "Micheasza", 
+        "alternatives": [
+          "Księga Micheasza", "Mi", "Mich", "Micheasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 16
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 13
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 12
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 13
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 15
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 16
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 20
+      }
+    }
+  },
+  "34": {
+    "no": "34",
+    "translations": {
+      "en": {
+        "name": "Nahum",
+        "alternatives": [
+          "Nah", "Na"
+        ]
+      },
+      "pl": {
+        "name": "Nahuma",
+        "alternatives": [
+          "Na", "Nah", "Księga Nahuma", "Nahum"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 15
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 13
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 19
+      }
+    }
+  },
+  "35": {
+    "no": "35",
+    "translations": {
+      "en": {
+        "name": "Habakkuk",
+        "alternatives": [
+          "Hab", "Ha"
+        ]
+      },
+      "pl": {
+        "name": "Habakuka",
+        "alternatives": [
+          "Księga Habakuka", "Hab", "Ha", "Abakuk"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 17
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 20
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 19
+      }
+    }
+  },
+  "36": {
+    "no": "36",
+    "translations": {
+      "en": {
+        "name": "Zephaniah",
+        "alternatives": [
+          "Zeph"
+        ]
+      },
+      "pl": {
+        "name": "Sofoniasza",
+        "alternatives": [
+          "Sof", "So", "Księga Sofoniasza", "Sofonijasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 18
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 15
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 20
+      }
+    }
+  },
+  "37": {
+    "no": "37",
+    "translations": {
+      "en": {
+        "name": "Haggai",
+        "alternatives": [
+          "Hag"
+        ]
+      },
+      "pl": {
+        "name": "Aggeusza",
+        "alternatives": [
+          "Księga Aggeusza", "Agg", "Ag", "Aggieusz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 15
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      }
+    }
+  },
+  "38": {
+    "no": "38",
+    "translations": {
+      "en": {
+        "name": "Zechariah",
+        "alternatives": [
+          "Zech"
+        ]
+      },
+      "pl": {
+        "name": "Zachariasza",
+        "alternatives": [
+          "Zach", "Za", "Księga Zachariasza", "Zacharyjasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 21
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 13
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 10
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 14
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 11
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 15
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 14
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 23
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 17
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 12
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 17
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 14
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 9
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 21
+      }
+    }
+  },
+  "39": {
+    "no": "39",
+    "translations": {
+      "en": {
+        "name": "Malachi",
+        "alternatives": [
+          "Mal", "Ma"
+        ]
+      },
+      "pl": {
+        "name": "Malachiasza",
+        "alternatives": [
+          "Księga Malachiasza", "Mal", "Ma", "Malachyjasz"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 14
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 17
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 18
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 6
+      }
+    }
+  },
+  "40": {
+    "no": "40",
+    "translations": {
+      "en": {
+        "name": "Matthew",
+        "alternatives": [
+          "Matt", "Mat"
+        ]
+      },
+      "pl": {
+        "name": "Mateusza",
+        "alternatives": [
+          "Mat", "Ewangelia św. Mateusza", "Ewangelia Mateusza", "Ewangielija św. Mateusza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 25
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 17
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 25
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 48
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 34
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 29
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 34
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 38
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 42
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 30
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 50
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 58
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 36
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 39
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 28
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 27
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 35
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 30
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 34
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 46
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 46
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 39
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 51
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 46
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 75
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 66
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 20
+      }
+    }
+  },
+  "41": {
+    "no": "41",
+    "translations": {
+      "en": {
+        "name": "Mark",
+        "alternatives": [
+          "Mark", "Mar"
+        ]
+      },
+      "pl": {
+        "name": "Marka",
+        "alternatives": [
+          "Mar", "Ewangelia Marka", "Ewangelia św. Marka", "Ewangielija św Marka"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 45
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 28
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 35
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 41
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 43
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 56
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 37
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 38
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 50
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 52
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 33
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 44
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 37
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 72
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 47
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 20
+      }
+    }
+  },
+  "42": {
+    "no": "42",
+    "translations": {
+      "en": {
+        "name": "Luke",
+        "alternatives": [
+          "Luk"
+        ]
+      },
+      "pl": {
+        "name": "Łukasza",
+        "alternatives": [
+          "Łuk", "Ewangelia Łukasza", "Ewangelia św. Łukasza", "Ewangielija św. Łukasza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 80
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 52
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 38
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 44
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 39
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 49
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 50
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 56
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 62
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 42
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 54
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 59
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 35
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 35
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 32
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 31
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 37
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 43
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 48
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 47
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 38
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 71
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 56
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 53
+      }
+    }
+  },
+  "43": {
+    "no": "43",
+    "translations": {
+      "en": {
+        "name": "John",
+        "alternatives": [
+          "John", "Joh"
+        ]
+      },
+      "pl": {
+        "name": "Jana",
+        "alternatives": [
+          "Jan", "Ewangelia Jana", "Ewangelia św. Jana", "Ewangielija św Jana"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 51
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 25
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 36
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 54
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 47
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 71
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 53
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 59
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 41
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 42
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 57
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 50
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 38
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 31
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 27
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 33
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 26
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 40
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 42
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 31
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 25
+      }
+    }
+  },
+  "44": {
+    "no": "44",
+    "translations": {
+      "en": {
+        "name": "Acts",
+        "alternatives": [
+          "Ac", "Act"
+        ]
+      },
+      "pl": {
+        "name": "Dzieje",
+        "alternatives": [
+          "Dz", "Dzieje Apostolskie"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 26
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 47
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 26
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 37
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 42
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 15
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 60
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 40
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 43
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 48
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 30
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 25
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 52
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 28
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 41
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 40
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 34
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 28
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 41
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 38
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 40
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 30
+      },
+      "23": {
+        "no": "23",
+        "numberOfVerses": 35
+      },
+      "24": {
+        "no": "24",
+        "numberOfVerses": 27
+      },
+      "25": {
+        "no": "25",
+        "numberOfVerses": 27
+      },
+      "26": {
+        "no": "26",
+        "numberOfVerses": 32
+      },
+      "27": {
+        "no": "27",
+        "numberOfVerses": 44
+      },
+      "28": {
+        "no": "28",
+        "numberOfVerses": 31
+      }
+    }
+  },
+  "45": {
+    "no": "45",
+    "translations": {
+      "en": {
+        "name": "Romans",
+        "alternatives": [
+          "Rom", "Ro"
+        ]
+      },
+      "pl": {
+        "name": "Rzymian",
+        "alternatives": [
+          "Rz", "Rzym", "List do Rzymian", "List św. Pawła do Rzymian"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 32
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 29
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 31
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 25
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 21
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 23
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 25
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 39
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 33
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 21
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 36
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 21
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 14
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 23
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 33
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 27
+      }
+    }
+  },
+  "46": {
+    "no": "46",
+    "translations": {
+      "en": {
+        "name": "1 Corinthians",
+        "alternatives": [
+          "1Cor", "1 Cor", "1 Co"
+        ]
+      },
+      "pl": {
+        "name": "1 Koryntian",
+        "alternatives": [
+          "1 Ko",
+          "1 Kor", "1Kor", "I Koryntów", 
+          "Pierwszy list św Pawła do Koryntian", 
+          "List pierwszy św. Pawłą do Koryntów",
+          "2 List do Koryntian"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 31
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 16
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 23
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 21
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 13
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 20
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 40
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 13
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 27
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 33
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 34
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 31
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 13
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 40
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 58
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 24
+      }
+    }
+  },
+  "47": {
+    "no": "47",
+    "translations": {
+      "en": {
+        "name": "2 Corinthians",
+        "alternatives": [
+          "2Cor", "2 Cor", "2 Co"
+        ]
+      },
+      "pl": {
+        "name": "2 Koryntian",
+        "alternatives": [
+          "2 Ko",
+          "2 Kor", "2Kor", "I Koryntów", 
+          "Drugi list św Pawła do Koryntian", 
+          "List wtóry św. Pawłą do Koryntów",
+          "1 List do Koryntian"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 24
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 17
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 18
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 18
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 21
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 18
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 16
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 24
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 15
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 18
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 33
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 21
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 14
+      }
+    }
+  },
+  "48": {
+    "no": "48",
+    "translations": {
+      "en": {
+        "name": "Galatians",
+        "alternatives": [
+          "Gal", "Ga"
+        ]
+      },
+      "pl": {
+        "name": "Galacjan",
+        "alternatives": [
+          "Ga", "Gal", "List św. Pawła do Galacjan", "List św. Pawłą do Galatów", "List do Galacjan"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 24
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 21
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 29
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 31
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 26
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 18
+      }
+    }
+  },
+  "49": {
+    "no": "49",
+    "translations": {
+      "en": {
+        "name": "Ephesians",
+        "alternatives": [
+          "Eph"
+        ]
+      },
+      "pl": {
+        "name": "Efezjan",
+        "alternatives": [
+          "Ef", "Efez", "List św. Pawła do Efezjan", "List św. Pawła do Efezów", "List do Efezjan"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 23
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 22
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 21
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 32
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 33
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 24
+      }
+    }
+  },
+  "50": {
+    "no": "50",
+    "translations": {
+      "en": {
+        "name": "Philippians",
+        "alternatives": [
+          "Phil", "Phi"
+        ]
+      },
+      "pl": {
+        "name": "Filipian",
+        "alternatives": [
+          "Fi", "Fil", "Filip", "List św. Pawła do Filipian", "List św. Pawła do Filipensów", "List do Filipian"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 30
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 30
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 21
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 23
+      }
+    }
+  },
+  "51": {
+    "no": "51",
+    "translations": {
+      "en": {
+        "name": "Colossians",
+        "alternatives": [
+          "Col"
+        ]
+      },
+      "pl": {
+        "name": "Kolosan",
+        "alternatives": [
+          "Kol", "Ko", "List św. Pawła do Kolosan", "List do Kolosan", "List św. Pawłą do Kolosensów"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 29
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 23
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 25
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 18
+      }
+    }
+  },
+  "52": {
+    "no": "52",
+    "translations": {
+      "en": {
+        "name": "1 Thessalonians",
+        "alternatives": [
+          "1Thess", "1 Thess", "1 Th", "1Th", "1 Thes", "1Thes"
+        ]
+      },
+      "pl": {
+        "name": "1 Tesaloniczan",
+        "alternatives": [
+          "1 Tes", "1Te", "1 Te", "1 List do Tesaloniczan", 
+          "Pierwszy list św. Pawła do Tesaloniczan",
+          "List pierwszy św. Pawła do Tesalonicensów"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 10
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 20
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 13
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 18
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 28
+      }
+    }
+  },
+  "53": {
+    "no": "53",
+    "translations": {
+      "en": {
+        "name": "2 Thessalonians",
+        "alternatives": [
+          "2Thess", "2 Thess", "2Th", "2 Th", "2 Thes", "2Thes"
+        ]
+      },
+      "pl": {
+        "name": "2 Tesaloniczan",
+        "alternatives": [
+          "2 Tes", "2Te", "2 Te", "2 List do Tesaloniczan", 
+          "Drugi list św. Pawła do Tesaloniczan",
+          "List wtóry św. Pawła do Tesalonicensów"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 12
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 17
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 18
+      }
+    }
+  },
+  "54": {
+    "no": "54",
+    "translations": {
+      "en": {
+        "name": "1 Timothy",
+        "alternatives": [
+          "1Tim", "1 Tim", "1Ti", "1 Ti"
+        ]
+      },
+      "pl": {
+        "name": "1 Tymoteusza",
+        "alternatives": [
+          "1 Tym", "1Tym", "1 Ty", "1Ty", 
+          "1 list do Tymoteusza",
+          "Pierwszy list św. Pawłą do Tymoteusza",
+          "List pierwszy św. Pawła do Tymoteusza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 20
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 15
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 16
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 16
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 25
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 21
+      }
+    }
+  },
+  "55": {
+    "no": "55",
+    "translations": {
+      "en": {
+        "name": "2 Timothy",
+        "alternatives": [
+          "2Tim", "2 Tim", "2Ti", "2 Ti"
+        ]
+      },
+      "pl": {
+        "name": "2 Tymoteusza",
+        "alternatives": [
+          "2 Tym", "2Tym", "2 Ty", "2Ty", 
+          "2 list do Tymoteusza",
+          "Drugi list św. Pawłą do Tymoteusza",
+          "List wtóry św. Pawła do Tymoteusza"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 18
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 26
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 17
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 22
+      }
+    }
+  },
+  "56": {
+    "no": "56",
+    "translations": {
+      "en": {
+        "name": "Titus",
+        "alternatives": [
+          "Tit", "Ti"
+        ]
+      },
+      "pl": {
+        "name": "Tytusa",
+        "alternatives": [
+          "Tyt", "Ty", "List do Tytusa",
+          "List św. Pawła do Tytusa"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 16
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 15
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 15
+      }
+    }
+  },
+  "57": {
+    "no": "57",
+    "translations": {
+      "en": {
+        "name": "Philemon",
+        "alternatives": [
+          "Phlm", "Ph", "Phl"
+        ]
+      },
+      "pl": {
+        "name": "Filemona",
+        "alternatives": [
+          "Fil", "Fi",
+          "List do Filemona",
+          "List św. Pawła do Filemona"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 25
+      }
+    }
+  },
+  "58": {
+    "no": "58",
+    "translations": {
+      "en": {
+        "name": "Hebrews",
+        "alternatives": [
+          "Heb", "He"
+        ]
+      },
+      "pl": {
+        "name": "Hebrajczyków",
+        "alternatives": [
+          "Hebr", "He", "List do Hebrajczyków", "List do Żydów"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 14
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 18
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 19
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 16
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 14
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 20
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 28
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 13
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 28
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 39
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 40
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 29
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 25
+      }
+    }
+  },
+  "59": {
+    "no": "59",
+    "translations": {
+      "en": {
+        "name": "James",
+        "alternatives": [
+          "Jas", "Jam"
+        ]
+      },
+      "pl": {
+        "name": "Jakuba",
+        "alternatives": [
+          "Jak", "Ja", "List Jakuba", "List św. Jakuba", "List św. Jakóba"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 27
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 26
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 18
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 17
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 20
+      }
+    }
+  },
+  "60": {
+    "no": "60",
+    "translations": {
+      "en": {
+        "name": "1 Peter",
+        "alternatives": [
+          "1Pet", "1 Pet", "1Pe", "1 Pe"
+        ]
+      },
+      "pl": {
+        "name": "1 Piotra",
+        "alternatives": [
+          "1 Pi", "1Pi", "1 Pio", "1Pio", "1 Piotr", "1Piotr", 
+          "1 list Piotra",
+          "Pierwszy list św. Piotra",
+          "List pierwszy św. Piotra",
+          "I list Piotra"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 25
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 25
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 22
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 19
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 14
+      }
+    }
+  },
+  "61": {
+    "no": "61",
+    "translations": {
+      "en": {
+        "name": "2 Peter",
+        "alternatives": [
+          "2Pet", "2 Pet", "2Pe", "2 Pe"
+        ]
+      },
+      "pl": {
+        "name": "2 Piotra",
+        "alternatives": [
+          "2 Pi", "2Pi", "2 Pio", "2Pio", "2 Piotr", "2Piotr", 
+          "2 list Piotra",
+          "Drugi list św. Piotra",
+          "List wtóry św. Piotra",
+          "II list Piotra"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 21
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 22
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 18
+      }
+    }
+  },
+  "62": {
+    "no": "62",
+    "translations": {
+      "en": {
+        "name": "1 John",
+        "alternatives": [
+          "1John", "1 J", "1J"
+        ]
+      },
+      "pl": {
+        "name": "1 Jana",
+        "alternatives": [
+          "1 list Jana", "1 Jan", "1Jan", "1J", "1 J",
+          "Pierwszy list św. Jana",
+          "List pierwszy św. Jana",
+          "I list Jana"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 10
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 29
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 24
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 21
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 21
+      }
+    }
+  },
+  "63": {
+    "no": "63",
+    "translations": {
+      "en": {
+        "name": "2 John",
+        "alternatives": [
+          "2John", "2 J", "2J"
+        ]
+      },
+      "pl": {
+        "name": "2 Jana",
+        "alternatives": [
+          "2 list Jana", "2 Jan", "2Jan", "2J", "2 J",
+          "Drugi list św. Jana",
+          "List wtóry św. Jana",
+          "II list Jana"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 13
+      }
+    }
+  },
+  "64": {
+    "no": "64",
+    "translations": {
+      "en": {
+        "name": "3 John",
+        "alternatives": [
+          "3John", "3 J", "3J"
+        ]
+      },
+      "pl": {
+        "name": "3 Jana",
+        "alternatives": [
+          "3 list Jana", "3 Jan", "3Jan", "3J", "3 J",
+          "Trzeci list św. Jana",
+          "List trzeci św. Jana",
+          "III list Jana"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 14
+      }
+    }
+  },
+  "65": {
+    "no": "65",
+    "translations": {
+      "en": {
+        "name": "Jude",
+        "alternatives": [
+          "Jud", "Ju"
+        ]
+      },
+      "pl": {
+        "name": "Judy",
+        "alternatives": [
+          "Ju", "Jud", "List Judy", "List św. Judy", "List św. Judasa"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 25
+      }
+    }
+  },
+  "66": {
+    "no": "66",
+    "translations": {
+      "en": {
+        "name": "Revelation",
+        "alternatives": [
+          "Rev", "Re", "Apocalypse", "Ap"
+        ]
+      },
+      "pl": {
+        "name": "Objawienie",
+        "alternatives": [
+          "Obj", "Ob", "Ap", "Apokalipsa", "Objawienie św. Jana","Apokalipsa św. Jana"
+        ]
+      }
+    },
+    "chapters": {
+      "1": {
+        "no": "1",
+        "numberOfVerses": 20
+      },
+      "2": {
+        "no": "2",
+        "numberOfVerses": 29
+      },
+      "3": {
+        "no": "3",
+        "numberOfVerses": 22
+      },
+      "4": {
+        "no": "4",
+        "numberOfVerses": 11
+      },
+      "5": {
+        "no": "5",
+        "numberOfVerses": 14
+      },
+      "6": {
+        "no": "6",
+        "numberOfVerses": 17
+      },
+      "7": {
+        "no": "7",
+        "numberOfVerses": 17
+      },
+      "8": {
+        "no": "8",
+        "numberOfVerses": 13
+      },
+      "9": {
+        "no": "9",
+        "numberOfVerses": 21
+      },
+      "10": {
+        "no": "10",
+        "numberOfVerses": 11
+      },
+      "11": {
+        "no": "11",
+        "numberOfVerses": 19
+      },
+      "12": {
+        "no": "12",
+        "numberOfVerses": 17
+      },
+      "13": {
+        "no": "13",
+        "numberOfVerses": 18
+      },
+      "14": {
+        "no": "14",
+        "numberOfVerses": 20
+      },
+      "15": {
+        "no": "15",
+        "numberOfVerses": 8
+      },
+      "16": {
+        "no": "16",
+        "numberOfVerses": 21
+      },
+      "17": {
+        "no": "17",
+        "numberOfVerses": 18
+      },
+      "18": {
+        "no": "18",
+        "numberOfVerses": 24
+      },
+      "19": {
+        "no": "19",
+        "numberOfVerses": 21
+      },
+      "20": {
+        "no": "20",
+        "numberOfVerses": 15
+      },
+      "21": {
+        "no": "21",
+        "numberOfVerses": 27
+      },
+      "22": {
+        "no": "22",
+        "numberOfVerses": 21
+      }
+    }
+  }
+}
