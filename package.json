@@ -1,0 +1,18 @@
+{
+  "name": "bible-map",
+  "version": "0.0.0",
+  "description": "Bible as a map",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/finalclass/bible-map.git"
+  },
+  "author": "Szymon Wygnański <s@finalclass.net> (http://finalclass.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finalclass/bible-map/issues"
+  }
+}
