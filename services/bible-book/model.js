@@ -67,7 +67,7 @@ exports.resolve = function (q) {
   var bookNumber = exports.getBookNumberByName(bookName);
 
   if (!bookNumber) {
-    return res.json(404, {error: 'Book not found'});
+    throw new Error('Book not found');
   }
 
   var numberOfChaptersInBook = exports.getChaptersNumbers(bookNumber).length;

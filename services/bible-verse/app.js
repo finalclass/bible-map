@@ -1,4 +1,3 @@
-
 /**
  * Module dependencies.
  */
@@ -26,11 +25,20 @@ if ('development' == app.get('env')) {
   app.use(express.errorHandler());
 }
 
-app.get('/:language/:translation/:bookNumber/:chapterNumber', function getWholeChapter (req, res) {
+app.get('/:language/:translation/:verse', function getVerse(req, res) {
+  model.getVerses(req.params.language, req.params.translation, req.params.verse, function (err, verses) {
+    if (err) {
+      res.json(404, {error: 'not found'});
+    }
+    res.json(verses);
+  });
+});
+
+app.get('/:language/:translation/:bookNumber/:chapterNumber', function getWholeChapter(req, res) {
   model.getChapter(
-    req.params.language, 
-    req.params.translation, 
-    req.params.bookNumber, 
+    req.params.language,
+    req.params.translation,
+    req.params.bookNumber,
     req.params.chapterNumber,
     function (err, chapter) {
       if (err) {
@@ -40,6 +48,6 @@ app.get('/:language/:translation/:bookNumber/:chapterNumber', function getWholeC
     });
 });
 
-http.createServer(app).listen(app.get('port'), function(){
+http.createServer(app).listen(app.get('port'), function () {
   console.log('Express server listening on port ' + app.get('port'));
 });

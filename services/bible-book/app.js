@@ -9,7 +9,7 @@ var model = require('./model.js');
 var app = express();
 
 // all environments
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 7000);
 app.use(express.logger('dev'));
 app.use(express.bodyParser());
 app.use(express.methodOverride());
@@ -34,7 +34,12 @@ app.get('/book-by-name/:bookName', function findBookByName(req, res) {
 });
 
 app.get('/resolve/:query', function findBookNumberChapterAndVerse (req, res) {
-  res.json(model.resolve(req.params.query));
+  console.log(req.params);
+  try {
+    res.json(model.resolve(req.params.query));
+  } catch (e) {
+    res.json(404, {error: 'book not found'});
+  }
 });
 
 app.get('/:bookNumber/chapter', function sendChapters (req, res) {
