@@ -11,9 +11,10 @@
                   response="{{response}}"></polymer-ajax>
 
     <polymer-localstorage name="verse-storage" 
+                          on-polymer-localstorage-load="{{onStorageLoad}}"
                           value="{{verse}}"></polymer-localstorage>
 
-    <form on-submit="{{onFormSubmit}}">
+    <div>
       <label for="verse">
         Verse:
       </label>
@@ -36,7 +37,9 @@
       this.response = {};
     },
     onInputKeyup: function () {
-      console.log("AAA");
+      this.$.ajax.go();
+    },
+    onStorageLoad: function (event) {
       this.$.ajax.go();
     },
     onAjaxResponse: function () {
@@ -46,10 +49,6 @@
           content: this.response[key].verse
         };
       }, this);
-    },
-    onFormSubmit: function (event, detail, sender) {
-      event.preventDefault();
-      this.$.ajax.go();
     }
   });
   </script>
