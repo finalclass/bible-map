@@ -12,6 +12,9 @@
   },
   "author": "Szymon Wygnański <s@finalclass.net> (http://finalclass.net/)",
   "license": "MIT",
+  "dependencies": {
+    "express": "3.4.x"
+  },
   "bugs": {
     "url": "https://github.com/finalclass/bible-map/issues"
   }
