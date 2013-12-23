@@ -25,6 +25,12 @@ if ('development' == app.get('env')) {
   app.use(express.errorHandler());
 }
 
+app.all('*', function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "X-Requested-With");
+    next();
+});
+
 app.get('/:language/:translation/:verse', function getVerse(req, res) {
   model.getVerses(req.params.language, req.params.translation, req.params.verse, function (err, verses) {
     if (err) {
