@@ -40,7 +40,6 @@ app.get('/book-by-name/:bookName', function findBookByName(req, res) {
 });
 
 app.get('/resolve/:query', function findBookNumberChapterAndVerse (req, res) {
-  console.log(req.params);
   try {
     res.json(model.resolve(req.params.query));
   } catch (e) {

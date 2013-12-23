@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>BibleMap</title>
+
+    <link rel="stylesheet" href="/bower_components/bootstrap-jasny/dist/css/bootstrap.min.css"/>
+    
+</head>
+<body>
+
+<div class="container">
+
+<form class="form-horizontal" role="form">
+
+    <div class="form-group">
+        <label class="col-sm-2 control-label" for="language-select">Language</label>
+        <div class="col-sm-10">
+            <select id="language-select" class="language-select form-control">
+                <option value="en">English</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-2 control-label" for="translation-select">Translation</label>
+        <div class="col-sm-10">
+            <select class="translation-select form-control" id="translation-select">
+                <option value="kjv">King James Version</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-2 control-label" for="verse-input">Verse</label>
+        <div class="col-sm-10">
+            <input type="text" id="verse-input" class="verse-input form-control"/>
+        </div>
+    </div>
+
+</form>
+
+</div>
+<script type="text/javascript" src="/bower_components/jquery/jquery.js"></script>
+
+</body>
+</html>
