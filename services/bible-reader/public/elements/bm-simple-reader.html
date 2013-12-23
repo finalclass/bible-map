@@ -17,8 +17,7 @@
       <label for="verse">
         Verse:
       </label>
-      <input type="text" value="{{verse}}">
-      <button>GO!</button>
+      <input type="text" value="{{verse}}" on-keyup="{{onInputKeyup}}">
     </form>
 
     <ul>
@@ -35,6 +34,10 @@
     respnseArray: [],
     ready: function () {
       this.response = {};
+    },
+    onInputKeyup: function () {
+      console.log("AAA");
+      this.$.ajax.go();
     },
     onAjaxResponse: function () {
       this.respnseArray = Object.keys(this.response).map(function (key) {
