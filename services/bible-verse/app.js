@@ -31,7 +31,7 @@ app.all('*', function(req, res, next) {
 app.get('/:language/:translation/:verse', function getVerse(req, res) {
   model.getVerses(req.params.language, req.params.translation, req.params.verse, function (err, verses) {
     if (err) {
-      res.json(404, {error: 'not found'});
+      return res.json(404, {error: 'not found'});
     }
     res.json(verses);
   });
