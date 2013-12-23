@@ -1,6 +1,7 @@
 var express = require('express');
 var app = express();
 
+app.set('port', process.env.PORT || 7770);
 app.use(express.static(__dirname + '/public'));
 
 app.all('*', function(req, res, next) {
@@ -9,4 +10,4 @@ app.all('*', function(req, res, next) {
     next();
 });
 
-app.listen(7770);
+app.listen(app.get('port'));
