@@ -1,0 +1,53 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="../bower_components/polymer-ajax/polymer-ajax.html">
+<link rel="import" href="../bower_components/polymer-localstorage/polymer-localstorage.html">
+
+<polymer-element name="bm-simple-reader">
+  <template>
+    <polymer-ajax id="ajax"
+                  handleAs="json"
+                  url="http://finalclass.net:7700/en/kjv/{{verse}}"
+                  on-polymer-response="{{onAjaxResponse}}"
+                  response="{{response}}"></polymer-ajax>
+
+    <polymer-localstorage name="verse-storage" 
+                          value="{{verse}}"></polymer-localstorage>
+
+    <form on-submit="{{onFormSubmit}}">
+      <label for="verse">
+        Verse:
+      </label>
+      <input type="text" value="{{verse}}">
+      <button>GO!</button>
+    </form>
+
+    <ul>
+      <template repeat="{{verse in respnseArray}}">
+        <li>
+          {{verse.number}}: {{verse.content}}
+        </li>
+      </template>
+    </ul>
+  </template>
+  <script>
+  Polymer('bm-simple-reader', {
+    response: {},
+    respnseArray: [],
+    ready: function () {
+      this.response = {};
+    },
+    onAjaxResponse: function () {
+      this.respnseArray = Object.keys(this.response).map(function (key) {
+        return {
+          number: key,
+          content: this.response[key].verse
+        };
+      }, this);
+    },
+    onFormSubmit: function (event, detail, sender) {
+      event.preventDefault();
+      this.$.ajax.go();
+    }
+  });
+  </script>
+</polymer-element>
